@@ -1,0 +1,44 @@
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Gradio generated files
+*.gradio
+
+# Model cache (huggingface, torch, etc.)
+~/.cache/
+.cache/
+*.ckpt
+*.pt
+*.pth
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# Temp folders
+temp/
+logs/
+output/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Python package manager files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
